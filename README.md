@@ -1,6 +1,6 @@
 # SRU18 
 
-* A merge of TyDev's and mattkc's Sonic Runners Decomps but also a port of the decomps to Unity 2018
+* An old somewhat failed attempt at porting mattkc's Sonic Runners Decompilation to Unity 2018
 
 # How to setup SRU18
 
