@@ -7,7 +7,7 @@
 By: SnesFX/Blitzdotcs
 
 1. Download files from this repo using
-`git clone https://github.com/blitzdotcs/SRU18.git `
+`git clone https://github.com/natbtw/SRU18.git `
 
 2. Download the files from [here](https://github.com/itsmattkc/RunnersAssetBundleDecomp)
 
